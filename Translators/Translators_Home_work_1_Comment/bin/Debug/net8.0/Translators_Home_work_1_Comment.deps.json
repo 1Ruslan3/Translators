@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Translators_Home_work_1_Comment/1.0.0": {
+        "runtime": {
+          "Translators_Home_work_1_Comment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Translators_Home_work_1_Comment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

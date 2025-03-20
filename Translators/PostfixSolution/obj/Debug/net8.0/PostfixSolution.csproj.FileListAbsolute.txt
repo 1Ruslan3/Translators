@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Translators\PostfixSolution\bin\Debug\net8.0\PostfixSolution.exe
+C:\Users\user\source\repos\Translators\PostfixSolution\bin\Debug\net8.0\PostfixSolution.deps.json
+C:\Users\user\source\repos\Translators\PostfixSolution\bin\Debug\net8.0\PostfixSolution.runtimeconfig.json
+C:\Users\user\source\repos\Translators\PostfixSolution\bin\Debug\net8.0\PostfixSolution.dll
+C:\Users\user\source\repos\Translators\PostfixSolution\bin\Debug\net8.0\PostfixSolution.pdb
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.AssemblyInfo.cs
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.sourcelink.json
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.dll
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\refint\PostfixSolution.dll
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.pdb
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\PostfixSolution.genruntimeconfig.cache
+C:\Users\user\source\repos\Translators\PostfixSolution\obj\Debug\net8.0\ref\PostfixSolution.dll
