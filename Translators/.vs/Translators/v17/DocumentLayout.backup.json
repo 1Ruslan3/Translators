@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Translators\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71274AD8-39BD-4866-902F-6C538E642586}|PostfixSolution\\PostfixSolution.csproj|c:\\users\\user\\source\\repos\\translators\\postfixsolution\\postfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71274AD8-39BD-4866-902F-6C538E642586}|PostfixSolution\\PostfixSolution.csproj|solutionrelative:postfixsolution\\postfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71274AD8-39BD-4866-902F-6C538E642586}|PostfixSolution\\PostfixSolution.csproj|c:\\users\\user\\source\\repos\\translators\\postfixsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71274AD8-39BD-4866-902F-6C538E642586}|PostfixSolution\\PostfixSolution.csproj|solutionrelative:postfixsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,18 +33,27 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Postfix.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Translators\\PostfixSolution\\Postfix.cs",
+              "RelativeDocumentMoniker": "PostfixSolution\\Postfix.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Translators\\PostfixSolution\\Postfix.cs",
+              "RelativeToolTip": "PostfixSolution\\Postfix.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:52:26.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Translators\\PostfixSolution\\Program.cs",
               "RelativeDocumentMoniker": "PostfixSolution\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Translators\\PostfixSolution\\Program.cs",
               "RelativeToolTip": "PostfixSolution\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:27:40.126Z",
               "EditorCaption": ""
