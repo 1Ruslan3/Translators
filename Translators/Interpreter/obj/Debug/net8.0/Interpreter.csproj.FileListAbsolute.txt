@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Translators\Interpreter\bin\Debug\net8.0\Interpreter.exe
+C:\Users\user\source\repos\Translators\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+C:\Users\user\source\repos\Translators\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+C:\Users\user\source\repos\Translators\Interpreter\bin\Debug\net8.0\Interpreter.dll
+C:\Users\user\source\repos\Translators\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.sourcelink.json
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.dll
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+C:\Users\user\source\repos\Translators\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
