@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Inter\Inter\bin\Debug\net8.0\Inter.exe
+C:\Users\user\source\repos\Inter\Inter\bin\Debug\net8.0\Inter.deps.json
+C:\Users\user\source\repos\Inter\Inter\bin\Debug\net8.0\Inter.runtimeconfig.json
+C:\Users\user\source\repos\Inter\Inter\bin\Debug\net8.0\Inter.dll
+C:\Users\user\source\repos\Inter\Inter\bin\Debug\net8.0\Inter.pdb
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.AssemblyInfo.cs
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.sourcelink.json
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.dll
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\refint\Inter.dll
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.pdb
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\Inter.genruntimeconfig.cache
+C:\Users\user\source\repos\Inter\Inter\obj\Debug\net8.0\ref\Inter.dll

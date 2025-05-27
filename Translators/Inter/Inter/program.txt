@@ -1,0 +1,6 @@
+a = 100;
+punjk(a);
+c = 500;
+d = 20 = 0;
+b = srenjk(a, c);
+punjk(b);

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Inter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\program.txt C:\\Users\\user\\source\\repos\\Inter\\Inter\\config.txt 10 10 10 output.txt input.txt --debug"
+    }
+  }
+}

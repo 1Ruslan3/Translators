@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Interpreter": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\user\\source\\repos\\Translators\\Interpreter\\bin\\Debug\\net8.0\\config.txt C:\\Users\\user\\source\\repos\\Translators\\Interpreter\\bin\\Debug\\net8.0\\programfile.txt"
-    }
-  }
-}

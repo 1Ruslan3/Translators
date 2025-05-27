@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Inter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\executer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\executer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\instructionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\instructionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|c:\\users\\user\\source\\repos\\inter\\inter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76383-6D63-493F-B157-7142F59239E4}|Inter\\Inter.csproj|solutionrelative:inter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Program.cs",
+              "RelativeDocumentMoniker": "Inter\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Program.cs",
+              "RelativeToolTip": "Inter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:14:47.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructionParser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\InstructionParser.cs",
+              "RelativeDocumentMoniker": "Inter\\InstructionParser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\InstructionParser.cs",
+              "RelativeToolTip": "Inter\\InstructionParser.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAG0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:10:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Inter\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\ConfigManager.cs",
+              "RelativeToolTip": "Inter\\ConfigManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:10:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Interpreter.cs",
+              "RelativeDocumentMoniker": "Inter\\Interpreter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Interpreter.cs",
+              "RelativeToolTip": "Inter\\Interpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:33:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Executer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Executer.cs",
+              "RelativeDocumentMoniker": "Inter\\Executer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\Executer.cs",
+              "RelativeToolTip": "Inter\\Executer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:03:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\program.txt",
+              "RelativeDocumentMoniker": "Inter\\program.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\program.txt",
+              "RelativeToolTip": "Inter\\program.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T19:06:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\config.txt",
+              "RelativeDocumentMoniker": "Inter\\config.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Inter\\Inter\\config.txt",
+              "RelativeToolTip": "Inter\\config.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T19:05:52.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
