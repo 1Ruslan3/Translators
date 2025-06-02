@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Translators\CommentRemover\bin\Debug\net8.0\CommentRemover.exe
+C:\Users\user\source\repos\Translators\CommentRemover\bin\Debug\net8.0\CommentRemover.deps.json
+C:\Users\user\source\repos\Translators\CommentRemover\bin\Debug\net8.0\CommentRemover.runtimeconfig.json
+C:\Users\user\source\repos\Translators\CommentRemover\bin\Debug\net8.0\CommentRemover.dll
+C:\Users\user\source\repos\Translators\CommentRemover\bin\Debug\net8.0\CommentRemover.pdb
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.AssemblyInfo.cs
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.sourcelink.json
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.dll
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\refint\CommentRemover.dll
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.pdb
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\CommentRemover.genruntimeconfig.cache
+C:\Users\user\source\repos\Translators\CommentRemover\obj\Debug\net8.0\ref\CommentRemover.dll

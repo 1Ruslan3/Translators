@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommentRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\user\\source\\repos\\Translators\\CommentRemover\\input.txt C:\\Users\\user\\source\\repos\\Translators\\CommentRemover\\bin\\Debug\\net8.0\\output.txt"
+    }
+  }
+}

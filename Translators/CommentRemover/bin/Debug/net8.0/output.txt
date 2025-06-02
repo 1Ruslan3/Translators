@@ -1,0 +1,37 @@
+static void Main(string[] args)
+{
+    string outputPath = args[1];
+    string url = "https://example.com/?query=//value";
+    string code = "something /* not comment */ still string";
+    string actual = lines[2].Trim(); 
+    string after = "done";
+
+   if (!File.Exists(inputPath))
+    {
+        Console.WriteLine("Файл не найден: " + inputPath);
+        return;
+    }
+
+    string[] lines = File.ReadAllLines(inputPath);
+
+    if (lines.Length < 3)
+    {
+        Console.WriteLine("Файл должен содержать как минимум три строки: символы комментариев и код.");
+        return;
+    }
+
+    string  multiLineEnd = lines[2].Trim();
+
+    StringBuilder codeBuilder = new StringBuilder();
+
+    for (int i = 3; i < lines.Length; i++)
+    {
+        codeBuilder.AppendLine(lines[i]);
+    }
+
+    string code = codeBuilder.ToString();
+    string result = RemoveComments(code, singleLineComment, multiLineStart, multiLineEnd);
+
+    File.WriteAllText(outputPath, result);
+    Console.WriteLine("Комментарии удалены. Результат сохранён в " + outputPath);
+}

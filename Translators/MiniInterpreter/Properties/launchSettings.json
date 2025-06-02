@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiniInterpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\user\\source\\repos\\Translators\\MiniInterpreter\\programfile.txt\r\n"
+    }
+  }
+}
